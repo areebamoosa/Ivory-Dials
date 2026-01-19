@@ -1,6 +1,6 @@
 # ⌚ Ivory Dials
 
-An online e-commerce platform for showcasing timeless designs with a clean & smooth product browsing.
+An online watch store for showcasing timeless designs with a clean & smooth product browsing.
 
 ## About this project 🚀
 
@@ -24,4 +24,4 @@ Building this project helped me gain confidence in using Tailwind utility classe
 
 ## Note :
 
-- This project is not responsive and works only on desktop screens.
+This project is not responsive and works only on desktop screens.
