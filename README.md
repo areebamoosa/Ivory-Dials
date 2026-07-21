@@ -20,7 +20,7 @@ Building this project helped me gain confidence in using Tailwind utility classe
 
 ## 🌐 Live Demo
 
-**View Live Website:** https://areebamoosa.github.io/Ivory-Dials
+**View Live Website:** https://ivory-dials.vercel.app/
 
 ## Note :
 
